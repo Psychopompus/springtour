@@ -1,0 +1,3 @@
+rootProject.name = 'springtour'
+include 'application:api-app'
+
